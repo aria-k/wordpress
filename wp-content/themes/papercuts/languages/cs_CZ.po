@@ -1,0 +1,993 @@
+# Translation of the WordPress theme PaperCuts 1.0 by Tomas Toman.
+# This file is distributed under the same license as the PaperCuts package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PaperCuts 1.0\n"
+"POT-Creation-Date: 2014-04-15 08:00+0100\n"
+"PO-Revision-Date: 2014-04-15 08:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tomas Toman <webdesign@tomastoman.cz>\n"
+"Language: Čeština\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:11 search.php:35
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: 404.php:12
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Je nám líto, ale nebyly nalezeny žádné výsledky pro váš požadavek. Možná, že "
+"vyhledávání vám pomůže najít související obsah."
+
+#: archive.php:14
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Archiv článků ze dne: %s"
+
+#: archive.php:16
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Archiv článků za měsíc: %s"
+
+#: archive.php:18
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Archiv článků za rok: %s"
+
+#: archive.php:20
+msgid "Archive"
+msgstr "Archiv"
+
+#: author.php:13
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Archiv autora: %s"
+
+#: class-tgm-plugin-activation.php:156 functions.php:414
+msgid "Install Required Plugins"
+msgstr "Instalovat vyžadované pluginy"
+
+#: class-tgm-plugin-activation.php:157 functions.php:415
+msgid "Install Plugins"
+msgstr "Instalovat pluginy"
+
+#: class-tgm-plugin-activation.php:158 functions.php:419
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalace pluginu: %s"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Něco se pokazilo."
+
+#: class-tgm-plugin-activation.php:170 functions.php:425
+msgid "Return to Required Plugins Installer"
+msgstr "Návrat na instalaci vyžadovaných pluginů."
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Návrat na Nástěnku"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin byl úspěšně aktivován."
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Následující plugin byl úspěšně aktivován:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy byly úspěšně nainstalovány a aktivovány. %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Skrýt toto oznámení"
+
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Externí odkaz"
+
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Vlastní adresář"
+
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Předpřipravený"
+
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Adresář WordPress"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Vyžadovaný"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Doporučený"
+
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Nenainstalovaný"
+
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Nainstalovaný, ale neaktivní"
+
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Žádné pluginy k instalaci či aktivaci. <a href=\"%1$s\" title=\"Zpět na "
+"Nástěnku\">Zpět na Nástěnku</a>"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Zdroj"
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Typ"
+
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Instalace"
+
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Instalační balík není k dispozici."
+
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Stahování instalačního balíku z <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Rozbalování instalačního balíku&#8230;"
+
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Instalace pluginu&#8230;"
+
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Instalace pluginu se nezdařila."
+
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin byl úspěšně nainstalován."
+
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Aktivace pluginu se nezdařila."
+
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalace a aktivace byl zahájen. Prosím buďte trpěliví, neboť proces "
+"může chvíli trvat."
+
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s byl úspěšně nainstalován a aktivován."
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Ukázat detaily"
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Skrýt detaily"
+
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Všechny instalace a aktivace byly dokončeny."
+
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace a aktivace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proces instalace byl zahájen. Prosím buďte trpěliví, neboť proces může "
+"chvíli trvat."
+
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Během instalace %1$s došlo k chybě: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalace %1$s se nezdařila."
+
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s úspěšně nainstalován."
+
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Instalace byly dokončeny."
+
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace pluginu %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Návrat na Nástěnku"
+
+#: comments.php:21 content-archives.php:23 single.php:19
+#: functions/fe/widget-posts-column.php:115
+#: functions/fe/widget-posts-column.php:133
+#: functions/fe/widget-posts-grid.php:109
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Komentář"
+msgstr[1] "%1$s Komentářů"
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Přidávání komentářů není povoleno."
+
+#: comments.php:42
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: comments.php:43
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:44
+msgid "Comment..."
+msgstr "Komentář..."
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Napsat komentář"
+
+#: content-archives.php:20 single.php:16
+msgid "Author: "
+msgstr "Autor: "
+
+#: functions.php:125
+msgid "Main Header Menu"
+msgstr "Hlavní navigace v záhlaví"
+
+#: functions.php:126
+msgid "Top Header Menu"
+msgstr "Horní navigace v záhlaví"
+
+#: functions.php:138
+msgid "Right Sidebar"
+msgstr "Hlavní postranní sloupec"
+
+#: functions.php:140
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Pravý postranní sloupec, který se objeví u všech stránek a příspěvků."
+
+#: functions.php:147
+msgid "Footer left widget area"
+msgstr "Levá oblast pro widgety v zápatí"
+
+#: functions.php:149
+msgid "Left column with widgets in footer."
+msgstr "Levý sloupec s widgety v zápatí."
+
+#: functions.php:156
+msgid "Footer middle widget area"
+msgstr "Prostřední oblast pro widgety v zápatí"
+
+#: functions.php:158
+msgid "Middle column with widgets in footer."
+msgstr "Prostřední sloupec s widgety v zápatí."
+
+#: functions.php:165
+msgid "Footer right widget area"
+msgstr "Pravá oblast pro widgety v zápatí"
+
+#: functions.php:167
+msgid "Right column with widgets in footer."
+msgstr "Pravý sloupec s widgety v zápatí."
+
+#: functions.php:174
+msgid "Footer notices"
+msgstr "Informace v zápatí"
+
+#: functions.php:176
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Řádek pro informace o autorství a další poznámky pod oblastmi pro widgety v "
+"zápatí. Vložte sem jeden textový widget. Pole \"Název\" by u tohoto widgetu "
+"mělo zůstat prázdné."
+
+#: functions.php:183
+msgid "Latest Posts Homepage widget area"
+msgstr "Widgety na domovské stránce s nejnovějšími příspěvky"
+
+#: functions.php:185
+msgid ""
+"The area for any PaperCuts Posts Widgets, which display latest posts from a "
+"specific category below the default Latest Posts area."
+msgstr ""
+"Oblast určená pro vložení některého z PaperCuts Posts Widgetů pro zobrazení "
+"nejnovějších příspěvků z určité kategorie."
+
+#: functions.php:192
+msgid "Homepage slideshow"
+msgstr "Slideshow na úvodní stránce"
+
+#: functions.php:194
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Oblast určená pro vložení Cyclone Slider Widgetu pro zobrazení slideshow na "
+"úvodní stránce."
+
+#: functions.php:213
+msgid "Read more"
+msgstr "Číst více"
+
+#: functions.php:243
+msgid "Post navigation"
+msgstr "Navigace mezi příspěvky"
+
+#: functions.php:245
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starší příspěvky"
+
+#: functions.php:246
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:261
+msgid "&larr; Previous post"
+msgstr "&larr; Předchozí příspěvek"
+
+#: functions.php:262
+msgid "Next post &rarr;"
+msgstr "Další příspěvek &rarr;"
+
+#: functions.php:279
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:279
+msgid "(Edit)"
+msgstr "(Upravit)"
+
+#: functions.php:292
+msgid "(Post author)"
+msgstr "(Autor)"
+
+#: functions.php:298
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s v %2$s"
+
+#: functions.php:304
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na schválení."
+
+#: functions.php:310
+msgid "Reply"
+msgstr "Odpovědět"
+
+#: functions.php:312
+msgid "Edit"
+msgstr "Upravit"
+
+#: functions.php:416
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"Plugin %1$s je vyžadován pro tuto šablonu. Klikněte na velké modré tlačítko "
+"níže pro nainstalování pluginu %1$s."
+
+#: functions.php:417
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"Plugin %1$s byl nainstalován, ale nyní je neaktivní. Přejděte prosím na <a "
+"href=\"%2$s\">stránku s administrací pluginů</a> a aktivujte jej."
+
+#: functions.php:418
+#, php-format
+msgid "Install %s Now"
+msgstr "Instalovat %s nyní"
+
+#: functions.php:420
+msgid "Something went wrong with the plugin API."
+msgstr "Něco se pokazilo s API pluginu."
+
+#: functions.php:421
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Tato šablona vyžaduje plugin %1$s. <a href=\"%2$s\"><strong>Klikněte zde pro "
+"zahájení instalace</strong></a>. V závislosti na nastavení Vašeho serveru "
+"budete možná vyzváni k zadání přístupových údajů k FTP."
+
+#: functions.php:422
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k instalaci pluginu %s. "
+"Kontaktujte administrátora tohoto webu pro pomoc s instalací pluginu."
+
+#: functions.php:423
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Tato šablona vyžaduje plugin %1$s. Tento plugin je nyní neaktivní, proto "
+"prosím přejděte na <a href=\"%2$s\">stránku s administrací pluginů</a>a "
+"aktivujte jej."
+
+#: functions.php:424
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Je nám líto, ale bohužel nemáte dostatečná oprávnění k aktivaci pluginu %s. "
+"Kontaktujte administrátora tohoto webu pro pomoc s aktivací pluginu."
+
+#: functions.php:436
+msgid "PaperCuts"
+msgstr "PaperCuts"
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Počet výsledků: "
+
+#: search.php:23
+msgid "Search results navigation"
+msgstr "Navigace mezi výsledky vyhledávání"
+
+#: search.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Previous results"
+msgstr "<span class=\"meta-nav\">&larr;</span> Předchozí výsledky"
+
+#: search.php:26
+msgid "Next results <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Další výsledky <span class=\"meta-nav\">&rarr;</span>"
+
+#: search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Je nám líto, ale Vašim kritériím nevyhovuje žádný výsledek. Zkuste to prosím "
+"znovu s jiným vyhledávacím dotazem."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Hledat..."
+
+#: single.php:28
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: tag.php:12
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Archiv štítku: %s"
+
+#: template-logged-in.php:18
+msgid "You must be logged in to view this page."
+msgstr "Pro zobrazení obsahu této stránky musíte být přihlášeni."
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Zobrazit větší obrázek"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Dozvědět se více"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70 cycloneslider/thumbnails/slider.php:70
+msgid "Slide type not supported."
+msgstr "Typ slideru není podporován."
+
+#: functions/be/fw-options.php:1272
+msgid "settings reset."
+msgstr "nastavení resetováno."
+
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Nastavení šablony"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Pro zadanou adresu nebylo nalezeno žádné umístění."
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Neplatný požadavek. Zadali jste adresu?"
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Něco se pokazilo při načítání mapy, ujistěte se prosím, zdali jste správně "
+"zadali shortcode."
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Nelze kontaktovat službu Google API."
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Zobrazí Facebook Like Box."
+
+#: functions/fe/widget-facebook.php:14
+msgid "PaperCuts Facebook Like Box Widget"
+msgstr "PaperCuts Facebook Like Box Widget"
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:86 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Titulek:"
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "URL Facebookové stránky:"
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Zadejte celou URL adresu stránky, která má být označována To se mi líbí "
+"(příklad: http://www.facebook.com/FacebookDevelopers)."
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Výška Like Boxu: (volitelné)"
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Zadejte výšku Like Boxu. Hodnota je v pixelech, ale do tohoto pole prosím "
+"zapisujte POUZE ČÍSLICE (bez symbolu \"px\")!"
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Zobrazovat tváře:"
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Určete, zdali se mají zobrazovat profilové obrázky uživatelů, kterým se "
+"stránka líbí."
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Zobrazovat příspěvky:"
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Určete, zdali se má zobrazovat výpis posledních příspěvků z dané stránky."
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Zobrazí nejnovější příspěvky z vybrané kategorie jako sloupec se zvýrazněným "
+"prvním příspěvkem."
+
+#: functions/fe/widget-posts-column.php:14
+msgid "PaperCuts Posts-Column"
+msgstr "PaperCuts Posts-Column"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Rubrika:"
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Vyberte rubriku příspěvků."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Počet příspěvků: "
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Zadejte zde počet nejnovějších příspěvků z dané rubriky, které chcete "
+"zobrazovat."
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie v podobě mřížky."
+
+#: functions/fe/widget-posts-grid.php:14
+msgid "PaperCuts Posts-Grid"
+msgstr "PaperCuts Posts-Grid"
+
+#: functions/fe/widget-posts-grid.php:112
+msgid "Read more &gt;"
+msgstr "Číst více &gt;"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Zobrazí nejnovější příspěvky z vybrané kategorie jako nečíslovaný seznam se "
+"zvýrazněným prvním příspěvkem."
+
+#: functions/fe/widget-posts-list.php:14
+msgid "PaperCuts Posts-List"
+msgstr "PaperCuts Posts-List"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie v podobě slideru."
+
+#: functions/fe/widget-posts-slider.php:14
+msgid "PaperCuts Posts-Slider"
+msgstr "PaperCuts Posts-Slider"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr ""
+"Zobrazí nejnovější příspěvky z vybrané kategorie v podobě náhledových "
+"obrázků."
+
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "PaperCuts Posts-Thumbnail"
+msgstr "PaperCuts Posts-Thumbnail"
+
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by PaperCuts"
+msgstr "Widget sociálních sítí pro PaperCuts"
+
+#: functions/fe/widget-social.php:14
+msgid "PaperCuts Social Widget"
+msgstr "PaperCuts Social Widget"
+
+#: functions/fe/widget-social.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: functions/fe/widget-social.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Vložte celou URL adresu Vašeho Twitter profilu."
+
+#: functions/fe/widget-social.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: functions/fe/widget-social.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Vložte celou URL adresu Vašeho Facebook profilu, stránky nebo skupiny."
+
+#: functions/fe/widget-social.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+#: functions/fe/widget-social.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+"Vložte URL adresu Vašeho RSS kanálu. Můžete vložit Vaše RSS z Feedburneru."
+
+#: functions/fe/widget-social.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+#: functions/fe/widget-social.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Vložte celou URL adresu Vašeho Google Plus profilu."
+
+#: functions/fe/widget-social.php:133
+msgid "You Tube:"
+msgstr "You Tube:"
+
+#: functions/fe/widget-social.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Vložte celou URL adresu Vašeho YouTube profilu."
+
+#: functions/fe/widget-social.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: functions/fe/widget-social.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Vložte celou URL adresu Vašeho Linkedin profilu."
+
+#: functions/fe/widget-social.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+#: functions/fe/widget-social.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Vložte celou URL adresu Vašeho Delicious profilu."
+
+#: functions/fe/widget-social.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: functions/fe/widget-social.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Vložte celou URL adresu Vašeho Pinterest profilu."
+
+#: functions/fe/widget-social.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: functions/fe/widget-social.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Vložte celou URL adresu Vašeho Flickr profilu."
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by PaperCuts"
+msgstr "Twitter widget pro PaperCuts"
+
+#: functions/fe/widget-twitter.php:15
+msgid "PaperCuts Twitter Widget"
+msgstr "PaperCuts Twitter Widget"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Připojte se k nám na Twitteru"
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Twitter uživatelské jméno:"
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: papercuts)."
+msgstr "Vložte Vaše uživatelské jméno na síti Twitter. (příklad: papercuts)."
+
+#~ msgid "About %s"
+#~ msgstr "O autorovi %s"
+
+#~ msgid "PaperCuts - full screen"
+#~ msgstr "PaperCuts - celá obrazovka"
+
+#~ msgid "<strong>Number of Results</strong>: "
+#~ msgstr "<strong>Počet výsledků</strong>: "
+
+#~ msgid ""
+#~ "Displays a full screen box with your custom background image, text and "
+#~ "link."
+#~ msgstr ""
+#~ "Zobrazí celoobrazovkový box s vaším vlastním obrázkem na pozadí, textem a "
+#~ "odkazem."
+
+#~ msgid "PaperCuts Box-Image"
+#~ msgstr "PaperCuts Box-Image"
+
+#~ msgid "Image:"
+#~ msgstr "Obrázek:"
+
+#~ msgid "Insert here the full URL address of your image."
+#~ msgstr "Vložte celou URL adresu požadovaného obrázku."
+
+#~ msgid "Height:"
+#~ msgstr "Výška:"
+
+#~ msgid "Set here the height of the image box (in pixels)."
+#~ msgstr "Zadejte výšku obrázkového boxu (v pixelech)."
+
+#~ msgid "Background image size:"
+#~ msgstr "Velikost obrázku v pozadí:"
+
+#~ msgid "Auto"
+#~ msgstr "Automatická"
+
+#~ msgid "Cover"
+#~ msgstr "Přes celou obrazovku"
+
+#~ msgid "Scrolling:"
+#~ msgstr "Rolování:"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixní"
+
+#~ msgid "Scrolled"
+#~ msgstr "Rolovat"
+
+#~ msgid "Subtitle:"
+#~ msgstr "Podtitulek:"
+
+#~ msgid "Button link:"
+#~ msgstr "Odkaz tlačítka:"
+
+#~ msgid "Insert here the full URL address of your custom link."
+#~ msgstr "Vložte celou URL adresu požadovaného odkazu."
+
+#~ msgid "Button text:"
+#~ msgstr "Text tlačítka:"
+
+#~ msgid "Insert here a text which will be displayed in the button."
+#~ msgstr "Vložte zde text, který se objeví v tlačítku."
+
+#~ msgid "Displays a box with your custom text and link."
+#~ msgstr "Zobrazí textový box s odkazem."
+
+#~ msgid "PaperCuts Box-Info"
+#~ msgstr "PaperCuts Box-Info"
+
+#~ msgid "Icon:"
+#~ msgstr "Ikona:"
+
+#~ msgid "Basket"
+#~ msgstr "Košík"
+
+#~ msgid "Book"
+#~ msgstr "Kniha"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalendář"
+
+#~ msgid "Comments"
+#~ msgstr "Komentáře"
+
+#~ msgid "Download"
+#~ msgstr "Stahování"
+
+#~ msgid "Envelope"
+#~ msgstr "Obálka"
+
+#~ msgid "Globe"
+#~ msgstr "Zeměkoule"
+
+#~ msgid "Heart"
+#~ msgstr "Srdce"
+
+#~ msgid "Home"
+#~ msgstr "Dům"
+
+#~ msgid "Notepad"
+#~ msgstr "Poznámkový blok"
+
+#~ msgid "Pin"
+#~ msgstr "Špendlík"
+
+#~ msgid "Star"
+#~ msgstr "Hvězda"
+
+#~ msgid "Tick"
+#~ msgstr "Zaškrtnutí"
+
+#~ msgid "User"
+#~ msgstr "Uživatel"
+
+#~ msgid "none"
+#~ msgstr "žádná"
+
+#~ msgid "Select an icon which will be displayed beside the title."
+#~ msgstr "Vyberte ikonu, která se zobrazí vedle nadpisu."
+
+#~ msgid "Text:"
+#~ msgstr "Text:"
+
+#~ msgid "Link:"
+#~ msgstr "Odkaz:"
+
+#~ msgid ""
+#~ "Insert here the full URL which will be displayed as a link (optional)."
+#~ msgstr "Vložte zde URL adresu odkazu (nepovinné)."
+
+#~ msgid "Read More &gt;"
+#~ msgstr "Číst více &gt;"
+
+#~ msgid ""
+#~ "Displays the latest posts from the selected category in the default "
+#~ "manner."
+#~ msgstr "Zobrazí nejnovější příspěvky z vybrané kategorie výchozím způsobem."
+
+#~ msgid "PaperCuts Posts-Default"
+#~ msgstr "PaperCuts Posts-Default"
+
+#~ msgid "Displays a box with your custom image and text."
+#~ msgstr "Zobrazí box s libovolným obrázkem a textem."
+
+#~ msgid "PaperCuts Box-Presentation"
+#~ msgstr "PaperCuts Box-Presentation"
+
+#~ msgid "Displays a headline of a section created with the Page Builder."
+#~ msgstr "Zobrazí nadpis sekce vytvořené pomocí Page Builderu."
+
+#~ msgid "PaperCuts Section-Headline"
+#~ msgstr "PaperCuts Section-Headline"
+
+#~ msgid "Headline:"
+#~ msgstr "Nadpis:"

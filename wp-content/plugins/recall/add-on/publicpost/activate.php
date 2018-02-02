@@ -1,0 +1,1 @@
+<?phpglobal $rcl_options;$rcl_options['info_author_recall']=1;$rcl_options['moderation_public_post']=1;$rcl_options['media_downloader_recall']='';$rcl_options['id_parent_category']='';$rcl_options['user_public_access_recall']=0;$rcl_options = serialize($rcl_options);update_option('primary-rcl-options',$rcl_options);?>

@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Convention v1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-01-08 05:27:07+0000\n"
+"Last-Translator: admin <max.2501@me.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:9
+#@ convention
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: 404.php:11
+#@ convention
+msgid "The site could not be found."
+msgstr "Die Seite konnte nicht gefunden werden."
+
+#: archive.php:14
+#: attachment.php:11
+#: category.php:11
+#: index.php:11
+#: search.php:11
+#: tag.php:11
+#@ convention
+msgid "Featured"
+msgstr ""
+
+#: comments.php:2
+#@ convention
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: comments.php:2
+#@ convention
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:10
+#@ convention
+msgid "Comment"
+msgstr "Kommentar"
+
+#: functions.php:59
+#@ convention
+msgid "Untitled"
+msgstr "Unbenannt"
+
+#: functions.php:68
+#@ convention
+msgid "Name*"
+msgstr "Name*"
+
+#: functions.php:72
+#@ convention
+msgid "Website"
+msgstr "Webseite"
+
+#. translators: 1: date, 2: time
+#: functions.php:109
+#, php-format
+#@ convention
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:115
+#@ convention
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss zuerst von einem Moderator geprüft werden."
+
+#: inc/register-sidebar.php:4
+#: sidebar.php:1
+#@ convention
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: full-width-page.php:23
+#: functions.php:121
+#: page.php:19
+#: single.php:26
+#@ convention
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: search.php:26
+#@ elegantwhite
+msgid "No Search Result Found"
+msgstr ""
+
+#: search.php:28
+#@ elegantwhite
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:1
+#@ convention
+msgid "Search ..."
+msgstr "Suche ..."
+
+#: archive.php:18
+#: functions.php:26
+#: index.php:17
+#@ convention
+msgid "Continue reading &rarr;"
+msgstr "Weiterlesen &rarr;"
+
+#: functions.php:70
+#@ convention
+msgid "E-Mail*"
+msgstr "E-Mail*"
+
+#: functions.php:106
+#, php-format
+#@ convention
+msgid "%s"
+msgstr ""
+
+#: inc/password-form.php:8
+#@ elegantwhite
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/password-form.php:9
+#@ elegantwhite
+msgid "Submit"
+msgstr ""
+
+#: single.php:24
+#@ convention
+msgid "CATEGORIES"
+msgstr "Kategorien"
+

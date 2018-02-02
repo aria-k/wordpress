@@ -1,0 +1,230 @@
+/*
+
+Theme Name: Cold Spring
+Theme URI: http://blog.VacationRealty.com
+Description: Provided by VacationRealty.com, download free premium wordpress themes at <a href=http://blog.vacationrealty.com/2007/12/18/wordpress-themes-for-webmasters/>http://blog.vacationrealty.com</a>
+Version: 1.1
+Author: Conquerer LLC
+Author URI: http://www.vacationrealty.com
+
+*/
+
+
+body { background: #006fcd url(images/main_bg.gif) no-repeat top center;; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; padding: 0px; margin: 0px; color:#6b4a20;}
+
+html { padding: 0; margin: 0;}
+
+a:link { text-decoration: none; color : #6b4a20; border: 0px; -moz-outline-style: none;}
+a:active { text-decoration: underline; color : #6b4a20; border: 0px; -moz-outline-style: none;}
+a:visited { text-decoration: none; color : #6b4a20; border: 0px; -moz-outline-style: none;}
+a:hover	{ text-decoration: underline; color : #0d63a0; border: 0px; -moz-outline-style: none;} 
+a:focus { outline: none;-moz-outline-style: none;}
+
+h1, h2, h3, h4 { font-family: "Trebuchet MS";}
+
+img { padding: 0px; margin: 0px; border: none; text-align: center;}
+hr { border-left:0px solid #abb0b5; border-right:0px solid #abb0b5; border-top:1px dotted #abb0b5; border-bottom:0px solid #abb0b5; height : 1px;  }
+
+form { padding: 0px; margin: 0px;}
+input { font-family: 'Verdana'; color: #282b31; font-size: 11px;}
+textarea { font-family: 'Verdana'; color: #282b31; font-size: 11px;}
+select { font-family: 'Verdana'; color: #282b31; font-size: 11px;}
+
+/* BGContainer +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.BGC { width: 900px; margin: 0 auto;  position: relative }
+
+/* Header +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/**/ * html .Header { height: 390px;} /* */ 
+.Header { background: url(images/header_bg.gif) no-repeat left bottom; width: 900px; position: relative; clear: left; padding: 0px; min-height:390px; }
+
+.Header h1 { top: 40px; position: relative; float: left; clear: right; font-size: 28px; line-height: 28px; letter-spacing: -1px; padding: 0px 5px 0px 20px; margin: 0px 20px 0 0; font-weight: bold;}
+.Header h1 a { color:#ffffff; text-decoration: none; }
+.Header h1 a:visited { color:#ffffff; text-decoration: none; }
+.Header h1 a:hover { color:#ffffff; text-decoration: none; }
+.Header .Desc { top: 40px; position: relative; float: left; clear: left; color:#cccccc; font-size: 14px; line-height: 14px; font-weight: bold; letter-spacing: -1px; font-family: 'Arial'; padding: 0px; margin: 0px 20px 0px 20px;}
+
+/* Menu +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.MNBGL { background: #FFF url(images/menu_right.gif) no-repeat top right; width: 14px; height: 31px; float: right; }
+.Menu { background: #FFF url(images/menu_left.gif) no-repeat top left; float: right; position: relative; margin: 0px;
+padding: 0px 6px 0px 20px; }
+.Menu em { display: none}
+.Menu ul { list-style: none; padding: 0; margin: 0}
+.Menu ul li ul { display: none;}
+.Menu li { padding: 0px; margin: 0px; display: inline; font-size: 11px;}
+.Menu a { padding: 10px 0px 8px 3px; margin-right: 2px; float: left;}
+.Menu a span { padding: 0px 9px 0px 6px; display: block; float: right; }
+.Menu a span { float: none; color: #000;}
+.Menu a:hover { color:#0049b2; text-decoration: none;}
+.Menu a:hover span { color:#0049b2;}
+.Menu .on { color:#0049b2; }
+.Menu .on span { color:#0049b2; }
+
+/* Container +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.CON { background: #ffffff url(images/body_bg.gif) repeat-y top left; width: 900px; float: left; position: relative; padding: 0px}
+
+/* Side Central Single +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/**/ * html .SCS { width: 580px; margin: 0px 15px 0 0;} /**/
+
+.SCS { width: 580px; float: right; margin: 0px 30px 0 0; position: relative;}
+.SCS h1 { color: #6b4a20; font-size: 20px; font-weight: normal; background: url(images/PostHead.gif) repeat-x bottom; padding-bottom: 10px; letter-spacing: -1px; }
+.SCS h2 { color: #000;font-size: 18px; font-weight: normal; }
+.SCS h3 { font-size: 14px; font-weight: bold; }
+
+.SCS p { font-size: 12px; line-height: 17px;}
+.SCS p strong {}
+.SCS img {}
+.SCS ul { padding: 10px 0px; margin: 0px; }
+.SCS li { padding: 2px 0px 2px 15px; list-style-type: none; background: url(images/PostContentLiIco.png) no-repeat left top; font-size: 11px; line-height: 15px; color:#4c4c4c; }
+.SCS blockquote { padding: 2px 10px; background: #e9f8ff; margin: 0px; color:#8ec200; }
+.SCS blockquote p { font-size: 11px; padding: 5px 0px; margin: 5px 0px; line-height: 15px;}
+.SCS blockquote li { padding: 2px 0px 2px 15px; list-style-type: none; background: url(images/PostContentBlockLiIco.png) no-repeat left top; font-size: 11px; line-height: 15px; color:#8ec200; }
+.SCS blockquote a { color:#0080ca; }
+.SCS blockquote a:visited { color:#0080ca; }
+.SCS blockquote a:hover { color:#003399; }
+.SCS a { text-decoration: underline;}
+
+/* Side Central +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/**/ * html .SC { width: 580px; margin: 0px 15px 0 0;} /**/
+
+.SC { width: 580px; float: right; margin: 20px 30px 0 0; position: relative;}
+.SC h2 { font-weight: normal;}
+.pagetitle { font-size: 20px; font-weight: normal; letter-spacing: -1px; border-bottom: solid 1px #000; padding-bottom: 15px;}
+
+/* Post +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Post {	padding: 0px; position: relative; clear: left;}
+.PostHead { position: relative; clear: left; background: url(images/PostHead.gif) repeat-x bottom; padding-bottom: 10px;}
+.PostHead h1 { font-size: 20px; line-height: 20px; letter-spacing: -1px; font-weight: normal; padding: 0px 0px 1px 0px; margin: 0px; color:#50330e; }
+.PostHead h1 a { color: #0d63a0; text-decoration: none;}
+.PostHead h1 a:visited { color: #0d63a0; text-decoration: none;}
+.PostHead h1 a:hover { color:#6b4a20; text-decoration: none;}
+
+.PostAuthor { padding: 1px 0px; margin: 0px; font-size: 10px; color:#6b4a20; font-weight: bold;}
+.PostDate { margin: 0px; position: absolute; top: 0px; right: 20px; text-align: center; padding: 0px 10px 6px 10px;}
+.PostDate small { font-size: 10px; color:#6b4a20; font-weight: bold; }
+.PostDate .month { display:block; text-transform: uppercase; font-size: 9px;}
+.PostDate .day { display:block; font-size: 24px; line-height: 24px; font-family: 'Arial'; letter-spacing: -1px; font-weight: normal; color:#6b4a20;}
+.PostDate .year { display:block;}
+
+.PostContent { padding: 0px 0px 5px 0px; font-size: 12px; line-height: 17px; background: url(images/PostHead.gif) repeat-x bottom; }
+.PostContent p { font-size: 12px; line-height: 17px;}
+.PostContent p strong {}
+.PostContent img {}
+.PostContent ul { padding: 10px 0px; margin: 0px; }
+.PostContent li { padding: 2px 0px 2px 15px; list-style-type: none; background: url(images/PostContentLiIco.png) no-repeat left top; font-size: 11px; line-height: 15px; color:#4c4c4c; }
+.PostContent blockquote { padding: 2px 10px; background: #e9f8ff; margin: 0px; color:#8ec200; }
+.PostContent blockquote p { font-size: 11px; padding: 5px 0px; margin: 5px 0px; line-height: 15px;}
+.PostContent blockquote li { padding: 2px 0px 2px 15px; list-style-type: none; background: url(images/PostContentBlockLiIco.png) no-repeat left top; font-size: 11px; line-height: 15px; color:#8ec200; }
+.PostContent blockquote a { color:#0080ca; }
+.PostContent blockquote a:visited { color:#0080ca; }
+.PostContent blockquote a:hover { color:#003399; }
+.PostContent a { text-decoration: underline;}
+
+.PostDet { padding-top: 15px;}
+.PostDet ul { padding: 0px; margin: 0px;}
+.PostDet li { padding: 5px 0px 5px 18px; margin: 0px 10px 0px 0px; list-style-type: none; display: inline; color: #6b4a20; font-size: 10px; font-weight: bold; } 
+.PostDet li a { text-decoration: underline;} 
+.PostCateg { background: url(images/PostCateg.png) no-repeat left center;}
+.PostCom { background: url(images/PostCom.png) no-repeat left center; }
+
+/* Note ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.Note { padding: 0px; margin: 0px;}
+.Note li { padding: 2px 0px 2px 15px; margin: 0px; list-style-type: none; font-size: 11px;}
+.NoteRss { background: url(images/NoteRss.png) no-repeat left top;}
+.NoteTrackBack { background: url(images/NoteTrackBack.png) no-repeat left top;}
+.Note li a { color:#cc6600;}
+
+/* Navigation - PlugIn +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Nav a { padding: 2px 5px 2px 3px; background: #fff; border-right: solid 1px #ccc; font-size: 11px;}
+.Nav a:visited { padding: 2px 5px 2px 3px; border-right: solid 1px #ccc;}
+.Nav a:hover { padding: 2px 5px 2px 3px; border-right: solid 1px #ccc; text-decoration: none;}
+.Nav span { padding: 2px 5px 2px 0px; color:#666666; border-right: solid 1px #ccc; }
+.Nav .on { padding: 2px 5px 2px 3px; border-right: solid 1px #ccc; font-size: 11px; color:#000;}
+
+/* Comments ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Comments { margin: 20px 0px 0px 0px;}
+
+/* Comments List  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Comments .List h3 { font-size: 14px; font-weight: bold; margin: 0px 0px 5px 0px; padding: 5px 0px; color:#000; }
+.Comments .List ol { padding: 0px; margin: 0px;}
+.Comments .List li { position: relative; padding: 15px 5px 10px 5px; margin: 0px 0px 20px 0px; list-style-type: none;}
+.Comments .List .ComListLi { background: #f6f1de; }
+/**/ * html .Comments .List .ComListLiTop { left: -5px;} /**/ 
+.Comments .List .ComListLiTop { position: absolute; height: 15px; width: 420px; left: 0px; top: 0px;}
+
+/**/ * html .Comments .List .ListNr { left: 0px;} /**/ 
+.Comments .List .ListNr { color:#000; position: absolute; top: 15px; font-size: 24px; line-height: 24px; font-family: 'Arial'; font-weight: normal; letter-spacing: -1px; padding: 0px; left: 10px; }
+
+/**/ * html .Comments .List .ListGrav { left: 10px;} /* */ 
+.Comments .List .ListGrav { position: absolute; top: 15px; left: 15px;}
+.Comments .List .ListGrav img { border: solid 1px #fff;}
+
+.Comments .List big { margin: 0px; padding: 0px 0px 0px 42px; font-size: 11px; line-height: 11px; letter-spacing: -1px; color:#333; font-weight: bold; display: block;}
+.Comments .List small { color:#a19a80; padding: 0px 0px 0px 42px; margin: 0px; font-size: 10px; }
+.Comments .List small a { color:#a19a80; text-decoration: none;}
+.Comments .List small a:visited { text-decoration: none;}
+
+.Comments .List .ListContent { margin: 15px 0px 0px 0px; padding: 5px 10px; font-size: 11px; line-height: 15px; background: #fff; display: block;}
+
+
+/* Comments Form ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Comments .Form h3 { font-size: 14px; font-weight: bold; letter-spacing: -1px; margin: 0px; padding: 5px 0px 10px 0px; color:#333;}
+.Comments .Form { background: #2c1900; padding: 10px 15px 10px 15px; position: relative;}
+/**/ *html .Comments .FormTop  { left: -15px;} /**/ 
+.Comments .FormTop { position: absolute; top: 0px; left: 0px; width: 480px; height: 7px;}
+.Comments .Form form {margin: 0px; padding: 0px;}
+.Comments .Form a { text-decoration: underline; color:#f5f5f5;}
+.Comments .Form p { padding: 0px; margin: 0px; font-size: 11px; color:#f5f5f5; }
+.Comments .Form p small strong { font-size: 10px; font-weight: bold; color:#FF3300;}
+.Comments .Form p small { font-size: 11px; display: block; padding: 5px 0px;}
+.Comments .Form .TextField { background: #fff; border: solid 1px #b97200; padding: 5px 4px; font-size: 11px; display: block;}
+.Comments .Form .TextArea { background: #fff; border: solid 1px #b97200; padding: 4px; font-size: 12px;}
+
+.Comments .Form input.SubmitComment { width: 204px; height: 26px; background: url(images/SubmitComment.png) no-repeat; margin-top: 8px;}
+.Comments .Form input.SubmitComment:hover { background: url(images/SubmitComment.png) no-repeat 0 -26px; margin-top: 8px;}
+.Comments .Form input.SubmitCommentIE { width: 204px; height: 26px; background: url(images/SubmitComment.png) no-repeat 0 -26px; margin-top: 10px; margin-top: 8px;}
+
+/* Side Bar ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.SRL { background: url(images/sidebar_top_bg.gif) no-repeat top left; padding: 15px 15px 15px 20px; float: left}
+.SRL h3 { font-family: georgia; color: #ffffff; padding: 2px 0px 4px 0px; margin: 0px; font-size: 20px;}
+.SRL li a { color:#56beff; font-size: 12px; }
+.SRL li a:visited { color:#56beff; }
+.SRL li a:hover { color:#fff;}
+
+/* Search ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Search { background: url(images/Search.gif) no-repeat left top; position: absolute; top: -65px; width: 280px; left: -9px;}
+.Search  form { padding: 26px 10px 6px 20px; margin: 0;}
+.Search  input { border: none; color: #330033; font-size: 11px;}
+.Search  input.search { margin-left: 8px; width: 66px; height: 33px; background: url(./images/SearchButton.gif) no-repeat;}
+.Search  input.keyword { background: none; border: none; padding: 5px 10px 5px 8px; width: 155px; border: none; }
+
+/**/ * html #buttonsearch { margin: -27px 0px 0px 163px; } /* */ 
+#buttonsearch { padding: 0px; margin: -23px 0px 0px 170px; top: 0px; background: none; }
+
+/* Categories +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Categ { margin-bottom: 20px;}
+.Categ h3 { padding: 0; margin: 0px;}
+.Categ ul { margin: 0px; padding: 10px 0px 20px 0px;}
+.Categ li { width: 200px; margin: 0px; padding: 4px 0px 5px 20px; list-style-type: none; font-size: 11px; background: url(images/subcategbullet.gif) no-repeat left 7px;}
+.Categ li ul {	list-style-type: none; padding: 0; margin: 0; }
+.Categ li ul li { background: none; list-style-type: square; padding: 0 0 0 5px; margin: 0; }
+
+/* Footer ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+.Footer { text-align: center; width: 900px; margin: 0 auto; background: url(images/bottom_bg.gif) no-repeat left top; clear: both; position: relative; padding: 43px 0 20px 0px;}
+.Footer p { font-size: 10px; color:#a2a2a2; padding: 0px; margin: 0px; }
+.Footer a { color:#a2a2a2; text-decoration: underline;}

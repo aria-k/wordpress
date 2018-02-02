@@ -1,0 +1,1 @@
+<?phprequire_once( '../../load-rcl.php' );require_once( 'class_ajax.php' );$ajax = new RCL_Ajax_Group();switch($action){	case 'remove_user_publics_group_rcl':		$ajax->remove_user_publics_group_rcl();	break;	case 'group_ban_user_rcl':		$ajax->group_ban_user_rcl();	break;	case 'edit_group_wp_recall':		$ajax->edit_group_wp_recall();	break;}?>

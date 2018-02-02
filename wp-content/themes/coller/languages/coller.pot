@@ -1,0 +1,742 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coller\n"
+"POT-Creation-Date: 2013-12-13 02:47+0530\n"
+"PO-Revision-Date: 2013-12-13 02:48+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: /Users/mac/Documents/Developer/Theme-Development/wp-"
+"content/themes/coller\n"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:51
+msgid "Images"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:60
+msgid "Links"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:63
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:36
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:37
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:38
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-page.php:18
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:24
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-page.php:23
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:65
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:34
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:78
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Edit"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:33
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:36
+msgid ", "
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:41
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:43
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:49
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:51
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "Leave a comment"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "% Comments"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/footer.php:32
+#, php-format
+msgid "%1$s Theme by %2$s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:74
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:75
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:160
+msgid "Coller Recent Posts"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:161
+msgid "Display your recent posts, with a Thumbnail."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:225
+msgid "Latest Articles"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:231
+msgid "5"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:235
+msgid "Title:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:238
+msgid "No. of Posts:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/header.php:69
+msgid "Menu"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/header.php:70
+msgid "Skip to content"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:31
+msgid "Basic Settings"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:35
+msgid "Site Logo"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:36
+msgid ""
+"Size of Logo should be Exactly 360x125px For Best Results. Leave Blank to "
+"use text Heading."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:42
+msgid ""
+"To have more customization options including Favicon, Responsive Navigation "
+"Settings, etc. <a href=\"http://rohitink.com/product/coller-pro\" target="
+"\"_blank\">Upgrade to Pro</a> at Just $14.95. Pro Version also supports "
+"customization of theme into unlimited colors. With Coller pro, you can "
+"design your own unique theme."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:48
+msgid "Custom Code in Header"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:49
+msgid ""
+"Insert scripts or code before the closing &lt;/head&gt; tag in the document "
+"source:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:55
+msgid "Custom Code in Footer"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:56
+msgid ""
+"Insert scripts or code before the closing &lt;/body&gt; tag in the document "
+"source:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:62
+msgid "Copyright Text"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:63
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:69
+msgid "Custom CSS"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:70
+msgid "Some Custom CSS for your site."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:78
+msgid "Slider Settings"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:82
+msgid "Enable Slider"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:83
+msgid "Check this to Enable Slider."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:89
+msgid ""
+"To Customize the the slider with more settings like Transition Effect, "
+"Transition Duration, Adaptive Heights, Touch Enable on Touch Screen Devices, "
+"etc. <a href=\"http://rohitink.com/product/coller-pro\" target=\"_blank"
+"\">Upgrade to Pro</a> at Just $14.95"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:94
+msgid "Using the Slider"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:95
+msgid ""
+"This Slider supports upto 5 Images. To show only 3 Slides in the slider, "
+"upload only 3 images. Leave the rest Blank. For best results, upload images "
+"of width more than 1100px"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:99
+msgid "Slider Image 1"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:100
+msgid "First Slide"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:106
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:125
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:144
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:163
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:182
+msgid "Title"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:112
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:131
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:150
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:169
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:188
+msgid "Url"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:118
+msgid "Slider Image 2"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:119
+msgid "Second Slide"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:137
+msgid "Slider Image 3"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:138
+msgid "Third Slide"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:156
+msgid "Slider Image 4"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:157
+msgid "Fourth Slide"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:175
+msgid "Slider Image 5"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:176
+msgid "Fifth Slide"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:196
+msgid "Social Settings"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:200
+msgid "Facebook"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:201
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:208
+msgid "Twitter"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:209
+msgid "Twitter Username"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:216
+msgid "Google Plus"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:217
+msgid "Google Plus profile url, including \"http://\""
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:224
+msgid "Pinterest"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:225
+msgid "Pinterest profile url, including \"http://\""
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:232
+msgid "Linked In"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:233
+msgid "Linkedin profile url, including \"http://\""
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:240
+msgid "Instagram"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:241
+msgid "Instagram profile url, including \"http://\""
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:248
+msgid "YouTube"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:249
+msgid "YouTube Channel url, including \"http://\""
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:256
+msgid "Feeburner"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:257
+msgid "URL for your RSS Feeds"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:264
+msgid ""
+"For More Social Icons. <a href=\"http://rohitink.com/product/coller-pro\" "
+"target=\"_blank\">Upgrade to Pro</a> at Just $14.95"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:269
+msgid "Support"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:273
+msgid ""
+"Coller WordPress theme has been Designed and Created by <a href=\"http://"
+"rohitink.com\" target=\"_blank\">Rohit Tripathi</a>. For any Queries or help "
+"related to the theme you can <a href=\"http://rohitink.com/2013/09/11/coller-"
+"wordpress-theme/\" target=\"_blank\">comment on this page</a>. You can also "
+"ask questions about this theme on WordPress.org Support Forums. I will "
+"answer your queries there too."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:278
+msgid ""
+"I offer Dedicated Personal e-mail support to all the Pro Version Customers. "
+"<a href=\"http://rohitink.com/product/coller-pro\" target=\"_blank\">Upgrade "
+"to Pro</a> at Just $14.95"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:283
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:287
+msgid "Theme Credits"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:288
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:294
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:298
+msgid ""
+"We are Offering a 30% Discount to all our customers till 10th January, 2014. "
+"Use Coupon code <strong>BYEBYE2013</strong> to claim the discount. <a href="
+"\"http://rohitink.com/product/coller-pro\" target=\"_blank\">Upgrade to Pro</"
+"a> and take your site to the next level."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/searchform.php:11
+msgid "Search &hellip;"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:147
+msgid "Coller Theme Options"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:148
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:376
+msgid "Coller Settings"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:192
+msgid "Clear"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:193
+msgid "Default"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:194
+msgid "Select Color"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:239
+msgid "Save Options"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:240
+msgid "Restore Defaults"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:240
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:272
+msgid "Default options restored."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:326
+msgid "Options saved."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:54
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:56
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:239
+msgid "No Repeat"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:240
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:241
+msgid "Repeat Vertically"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:242
+msgid "Repeat All"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:255
+msgid "Top Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:256
+msgid "Top Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:257
+msgid "Top Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:258
+msgid "Middle Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:259
+msgid "Middle Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:260
+msgid "Middle Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:261
+msgid "Bottom Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:262
+msgid "Bottom Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:263
+msgid "Bottom Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:276
+msgid "Scroll Normally"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:277
+msgid "Fixed in Place"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:351
+msgid "Normal"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:352
+msgid "Italic"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:353
+msgid "Bold"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:354
+msgid "Bold Italic"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:81
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:186
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:194
+#, php-format
+msgid "View all posts by %s"
+msgstr ""

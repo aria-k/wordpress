@@ -1,0 +1,1 @@
+Name: Feed Wp-Recall (Подписки);Version: 1.6.0;Description: Функционал формирования подписок пользователя и их просмотра для wp-recall;Author: Плечев Андрей;Url: wppost.ru;

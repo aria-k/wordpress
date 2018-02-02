@@ -1,0 +1,1 @@
+<?phpglobal $rcl_options;unset($rcl_options['rayt_post_recall']);unset($rcl_options['rayt_comment_recall']);unset($rcl_options['rayt_post_user_rayt']);unset($rcl_options['rayt_comment_user_rayt']);$rcl_options = serialize($rcl_options);//update_option('primary-rcl-options',$rcl_options);?>

@@ -1,0 +1,1 @@
+<?php global $rcl_options;unset($rcl_options['delete_user_account']);$rcl_options = serialize($rcl_options);update_option('primary-rcl-options',$rcl_options);?>

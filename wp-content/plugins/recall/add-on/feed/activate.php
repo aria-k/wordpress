@@ -1,0 +1,1 @@
+<?phpglobal $rcl_options;$rcl_options['feed_users_recall']=1;$rcl_options = serialize($rcl_options);update_option('primary-rcl-options',$rcl_options);?>

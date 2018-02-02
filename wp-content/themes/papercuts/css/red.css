@@ -1,0 +1,43 @@
+/* Color scheme Red
+----------------------------------------------- */
+body a,
+body .site-title a,
+body .post-entry .post-entry-headline a,
+body .flexslider .slides li a {
+  color: #fc1d28;       
+} 
+body .post-entry .read-more-button:hover,
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .custom-button:hover,
+#wrapper #container .panel-row-style .origin-widget-button a:hover,
+body #searchform .searchform-wrapper .send:hover {
+  background-color: #fc1d28;                                         
+}
+body .post-entry .read-more-button,
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+#wrapper #container .panel-row-style .origin-widget-button a,
+body #searchform .searchform-wrapper .send {
+  background-color: #fe8389;                                   
+}
+body .sidebar-widget .sidebar-headline,
+body #main-content .sticky {
+  background-color: #ffe8ea;                                       
+}
+body .menu-box a:hover,
+body .menu-box :hover > a,
+body #header .menu-box .current-menu-item > a,
+body #header .menu-box .current-menu-ancestor > a,
+body #header .menu-box .current_page_item > a,
+body #header .menu-box .current-page-ancestor > a,
+body .highlight-text {
+  background-color: #ffe5e6;                          
+}
+body .social-icon {
+  background-color: #febbbe;                  
+}
+body .footer-signature .footer-signature-content a {
+  color: #ffdadc;                                                   
+}
